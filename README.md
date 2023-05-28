@@ -18,3 +18,4 @@ Requirements:
 ```bash
 mvn clean install
 ```
+![Example Image](example.png)
