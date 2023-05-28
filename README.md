@@ -18,4 +18,9 @@ Requirements:
 ```bash
 mvn clean install
 ```
+
+## api
+```bash
+/time-tracker
+```
 ![Example Image](example.png)
